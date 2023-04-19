@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rdkang/ansible,Rdkang/woopaper,Rdkang/wooclock&type=Date)](https://star-history.com/#rdkang/ansible&Rdkang/woopaper&Rdkang/wooclock&Date)
+
